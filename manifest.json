@@ -1,0 +1,12 @@
+{
+ "name": "Fix theoldreader",
+"description": "",
+   "version": "1.0.0",
+ "manifest_version": 2,
+"content_scripts": [
+    {
+      "matches": ["http://theoldreader.com/*"],
+      "js": [ "jquery-1.9.1.min.js","r.js"]
+    }
+  ]
+}
