@@ -6,12 +6,6 @@ I DONT USE CHROME
 ======
 gtfo
 
-HOW IS THIS USE
-========
-Download https://github.com/Zazcallabah/oldreaderfix/raw/master/oldreaderfix.crx
-Enter chrome://extensions in chrome
-drag the crx file to anywhere on that page
-
 HOW IS THIS DEVELOP
 =======
 Download this repo. Really only the json and the js files are needed.
